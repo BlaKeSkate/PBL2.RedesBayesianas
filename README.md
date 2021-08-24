@@ -1,2 +1,2 @@
 # PBL2.RedesBayesianas
-Actividad 2
+Actividad 2 PBL
